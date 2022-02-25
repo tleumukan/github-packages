@@ -1,0 +1,22 @@
+{
+  "name": "@tleumukan/github-packages",
+  "version": "1.0.0",
+  "description": "package",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tleumukan/github-packages.git"
+  },
+  "keywords": [
+    "package"
+  ],
+  "author": "Tileu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tleumukan/github-packages/issues"
+  },
+  "homepage": "https://github.com/tleumukan/github-packages#readme"
+}
