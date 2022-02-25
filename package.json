@@ -1,5 +1,8 @@
 {
   "name": "@tleumukan/github-packages",
+  "publishConfig": {
+    "@tleumukan:registry": "https://npm.pkg.github.com"
+  },
   "version": "1.0.0",
   "description": "package",
   "main": "index.js",
